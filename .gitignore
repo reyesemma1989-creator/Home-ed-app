@@ -1,0 +1,15 @@
+node_modules/
+dist/
+dist-ssr/
+tsconfig.tsbuildinfo
+.DS_Store
+.vscode/
+.idea/
+*.log
+*.local
+.env
+.env.*
+!.env.example
+
+# Vite PWA generated
+dev-dist/
